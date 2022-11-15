@@ -1,0 +1,37 @@
+
+.div1{
+	background-color: #FF4DA6;
+	margin: 20px 10px 10px 10px;
+	height: 100px;
+	
+}
+
+.div2{
+	display: inline-table;
+	background-color: #FF037E;
+	margin: 0px 0px 0px 10px;
+	height: 430px;
+	float: left;
+	width: 70%;
+	padding-right: 10px;
+	
+}
+
+.div3{
+	display: inline-table;
+	background-color: #CE0468;
+	margin: 0px 10px 0px 0px;
+	float: right;
+	height: 430px;
+	width: 27%;
+	
+}
+
+.footer {
+	display: block;
+	height: 100px;
+	background-color: #802755;
+	margin: 450px 10px 0px 10px;
+}
+
+

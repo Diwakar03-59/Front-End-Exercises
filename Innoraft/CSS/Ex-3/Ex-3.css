@@ -1,0 +1,97 @@
+.back {
+	background-color: #F40000;
+	height: 660px;
+	border: 5px solid white;
+}
+
+.back-content {
+	color: white;
+	font-family: Arial;
+	font-size: 2rem;
+	margin-top: 100px;
+	margin-left: 120px;
+}
+
+p {
+	color: white;
+	font-size: 1.5rem;
+}
+
+.image {
+	float: right;
+	margin-right: 120px;
+	margin-top: -230px;
+}
+
+.tabs {
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 70px;
+}
+
+.tab1 {
+	background-color: #571212;
+	display: inline-block;
+	font-size: 1.2rem;
+	font-family: Arial; 
+	height: 210px;
+	width: 434px;
+	color: #C7B0B0;
+	text-align: left;
+}
+
+.tab2 {
+	background-color: #571212;
+	display: inline-block;
+	font-size: 1.2rem;
+	font-family: Arial; 
+	height: 210px;
+	width: 430px;
+	color: #C7B0B0;
+	text-align: left;
+	margin-top: -165px;
+	vertical-align: middle;
+}
+
+.tab3 {
+	background-color: #571212;
+	display: inline-block;
+	font-size: 1.2rem;
+	font-family: Arial; 
+	height: 210px;
+	width: 430px;
+	color: #C7B0B0;
+	text-align: left;
+}
+
+.tab3 p {
+	color: #A24F4F;
+	font-size: 0.8rem;
+	text-align: left;
+}
+
+.tab-content3 {
+	margin-left: 50px;
+}
+
+.tab2 p {
+	color: #A24F4F;
+	font-size: 0.8rem;
+	text-align: left;
+}
+
+.tab-content2 {
+	margin-left: 50px;
+}
+
+.tab1 p {
+	color: #A24F4F;
+	font-size: 0.8rem;
+	text-align: left;
+}
+
+.tab-content1 {
+	margin-left: 50px;
+}
+
+
