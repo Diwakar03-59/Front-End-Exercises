@@ -1,0 +1,155 @@
+.header {
+	background-color: orange;
+	display: flex;
+	height: 60px;
+}
+
+.header a {
+	display: inline-block;
+	align-content: center;
+	color: white;
+	height: 30px;
+	padding: 0px 7px 0px 7px;
+	border-radius: 5px;
+	text-align: center;
+	vertical-align: middle;
+	margin: 14px 5px 10px 5px;
+	padding-top: 8px;
+	font-family: Arial;
+	font-weight: bold;
+
+}
+
+a:link {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: black;
+	text-decoration: none;
+}
+
+.menu {
+	margin-left: 750px;
+}
+
+
+.header img {
+	display: flex;
+	margin-left: 80px
+} 
+
+.banner {
+	display: flex;
+	height: 210px;
+	background-color: black;
+}
+
+.banner h2 {
+	display: inline-block;
+	color: orange;
+	font-size: 3rem;
+	font-weight: bolder;
+	margin: 80px 180px 0px 170px;
+}
+
+.pp-back {
+	display: flex;
+	background-color: orange;
+	height: 350px;
+	width: 30%;
+	margin: 10px 0px 0px 120px;
+}
+
+.pp {
+	background-color: black;
+	height: 250px;
+	width: 50%;
+	margin: 30px 0px 0px -40px;
+}
+
+.details {
+	display: flex;
+	background-color: orange;
+	height: 230px;
+	width: 700px;
+	margin: 10px 0px 0px 10px;
+}
+
+.details form input{
+	display: block;
+	width: 400px;
+	height: 30px;
+	background-color: white;
+}
+
+.details form select {
+	display: block;
+	width: 408px;
+	height: 38px;
+	background-color: white;
+}
+
+.details button {
+	background-color: black;
+	color: orange;
+	height: 40px;
+	width: 120px;
+	border: 1px solid white;
+	border-radius: 5px;
+
+}
+
+.details a {
+	color: white;
+}
+
+.details p {
+	width: 50px;
+	margin-left: 20px;
+}
+
+.profile {
+	display: flex;
+}
+.right {
+	display: block;
+}
+
+.blank {
+	background-color: black;
+	height: 110px;
+	width: 700px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.foot {
+	display: flex;
+	background-color: orange;
+	text-align: center;
+	margin-top: 10px;
+	height: 40px;
+}
+
+.foot a {
+	display: inline-block;
+	font-size: 1.2rem;
+	font-family: Arial;
+	color: white;
+	margin: 0px 5px 0px 5px;
+
+}
+
+.foot a:hover {
+	background-color: orange;
+}
+
+.foot-links {
+	margin-top: 10px;
+	margin-left: 500px;
+
+}
+
+
