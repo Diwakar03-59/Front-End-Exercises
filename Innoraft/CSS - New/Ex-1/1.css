@@ -1,0 +1,36 @@
+.container{
+	margin: 10px auto;
+	display: grid;
+}
+
+
+.Header {
+	background-color: orange;
+	height: 100px;
+}
+
+
+.contents div{
+	display: inline-block;
+	float: left;
+	margin-top: 10px;
+	height: 450px
+}
+
+.con1 {
+	background-color: blue;
+	width: 70%;
+	margin-right: .8%;
+	
+}
+
+.con2 {
+	background-color: red;
+	width: 29.2%;
+}
+
+.footer {
+	height: 100px;
+	background-color: purple;
+	margin-top: 10px;
+}
