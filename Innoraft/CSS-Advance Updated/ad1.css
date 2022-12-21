@@ -5,23 +5,30 @@
 
 .nav {
 	display: flex;
-	height: 75px;
 	background-color: orange;
 	width: 100%;
 }
 
 .hc {
 	display: flex;
-	width: 100%;
-	align-items: center;
-	justify-content: space-between;
-	overflow: hidden;
 	margin: 0px auto;
+	overflow: hidden;
+
+}
+
+.menu {
+	height: 75px;
+	display: flex;
+	margin-left: 270px;
+}
+
+.image {
+	height: 75px;
+	margin-right: 270px;
 }
 
 .hc ul {
 	float: right;
-	margin-right: 100px;
 
 }
 
@@ -30,43 +37,50 @@ a {
 	color: white;
 }
 
-a:hover {
+li:hover {
 	background-color: black;
-	padding: 10px;
 }
 
 .hc li{
 	display: inline-block;
 	list-style: none;
-	padding: 15px;
+	padding: 10px;
 	font-size: 1.3rem;
 }
 
-.nav img {
-	margin-left: 80px;
-	height: 80px;
+.image img {
+	height: 75px;
+}
+
+.ban {
+	display: flex;
+	width: 100%;
+	background-color: black;
+	height: 200px;
 }
 
 .banner {
-	width: 100%;
-	height: 200px;
+	display: block;
+	margin: 0px auto;
+
 
 }
 
 .carousal {
 	display: flex;
-	margin: 0px auto;
+	width: 100%;
 	height: 200px;
 	background-color: black;
 	color: orange;
 	align-items: center;
-	justify-content: space-between;
 }
 
 .carousal h2{
+	align-items: center;
 	font-size: 3.5rem;
-	margin-right: 50px;
-	margin-left: 50px;
+	margin-right: 175px;
+	margin-left: 175px;	
+
 }
 
 
@@ -168,6 +182,5 @@ a:hover {
 	display: inline-block;
 	color: white;
 }
-
 
 
